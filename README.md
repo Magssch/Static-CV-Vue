@@ -1,4 +1,4 @@
-# visma_kurs_ny
+# Static-CV-Vue
 
 ## Project setup
 ```
